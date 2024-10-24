@@ -8,7 +8,7 @@ postgresql://Student2:cQDO8rxaN4sG@ep-noisy-flower-846766.us-east-2.aws.neon.tec
 ## Files
 
 - **meta_data_cleaning_queries.sql**: Contains queries to clean the Meta Database (e.g., removing duplicates, handling NULLs, etc.).
-- **meta_analysis_queries.sql**: Contains queries for analyzing the Meta Database (e.g., product sales analysis, user activity analysis, etc.).
+- **meta_analysis_queries.sql**: The analysis addresses financial performance, customer data quality, and employee engagement. It helps management compare customer segments, monitor sales team performance, and ensure client information is up to date.
 
 ## Running the Queries
 
